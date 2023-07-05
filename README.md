@@ -7,3 +7,6 @@ If you have an interesting idea for Gmod or you want something/need help with so
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelIT7&layout=compact&theme=transparent&hide_border=true)
 ![](https://komarev.com/ghpvc/?username=RaphaelIT7)
+
+Some Issues/Requests I made:  
+https://github.com/Facepunch/garrysmod-requests/issues/2120
