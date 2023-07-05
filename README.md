@@ -9,12 +9,12 @@ If you have an interesting idea for Gmod or you want something/need help with so
 ![](https://komarev.com/ghpvc/?username=RaphaelIT7)
 
 Some Issues/Requests I made:  
-https://github.com/Facepunch/garrysmod-requests/issues/2120
-https://github.com/Facepunch/garrysmod-issues/issues/5501
-https://github.com/Facepunch/garrysmod-issues/issues/5492
-https://github.com/Facepunch/garrysmod-requests/issues/2108
-https://github.com/Facepunch/garrysmod-requests/issues/2098
-https://github.com/Facepunch/garrysmod-issues/issues/5472
-https://github.com/Facepunch/garrysmod-requests/issues/2089
-https://github.com/Facepunch/garrysmod-issues/issues/5455
-https://github.com/Facepunch/garrysmod-issues/issues/5396
+https://github.com/Facepunch/garrysmod-requests/issues/2120  
+https://github.com/Facepunch/garrysmod-issues/issues/5501  
+https://github.com/Facepunch/garrysmod-issues/issues/5492  
+https://github.com/Facepunch/garrysmod-requests/issues/2108  
+https://github.com/Facepunch/garrysmod-requests/issues/2098  
+https://github.com/Facepunch/garrysmod-issues/issues/5472  
+https://github.com/Facepunch/garrysmod-requests/issues/2089  
+https://github.com/Facepunch/garrysmod-issues/issues/5455  
+https://github.com/Facepunch/garrysmod-issues/issues/5396  
