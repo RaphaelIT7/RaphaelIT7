@@ -17,4 +17,4 @@ https://github.com/Facepunch/garrysmod-issues/issues/5455
 https://github.com/Facepunch/garrysmod-issues/issues/5396  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelIT7&layout=compact&theme=transparent&hide_border=true)
-![](https://komarev.com/ghpvc/?username=RaphaelIT7)
+![](https://komarev.com/ghpvc/?username=RaphaelIT7&style=for-the-badge)
