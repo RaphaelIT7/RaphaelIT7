@@ -1,7 +1,7 @@
 ### Hello There
 
 Hi, my name is Raphael.  
-I'm a German developer who loves to code stuff for Garry's Mod, loves to optimize everything, encrypt stuff like VCMod, and loves to document stuff in the Gmod wiki. 
+I'm a German developer who loves to code stuff for Garry's Mod, loves to optimize everything, decrypt stuff like VCMod, and loves to document stuff in the Gmod wiki. 
 Currently, I made around 1817 changes in the Gmod wiki. (Last Updated: 6/25/2023)  
 If you have an interesting idea for Gmod or you want something/need help with something, feel free to write me on discord(raphaelit7).  
 You can also make an issue on any of my repos if you have any request, issue or question.  
